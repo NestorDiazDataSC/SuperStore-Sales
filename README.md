@@ -1,7 +1,7 @@
 ## SuperStore-Sales
-Predict Sales or Profit.
+Predecir Sales (Ventas) o Profit (Beneficios).
 
-## Metadata
+## Metadata: Como se componen los datos del dataframe
 Row ID => Unique ID for each row.
 
 Order ID => Unique Order ID for each Customer.
