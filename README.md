@@ -47,9 +47,11 @@ Profit => Profit/Loss incurred.
 A traves del analisis se obtuvieron los siguientes diagramas, aunque hay mas productos del mismo analisis en el archivo IPYNB
 
 Heatmap
+
 ![01](https://user-images.githubusercontent.com/94582879/173687150-e9a4c7fc-e29e-487e-a005-b1e398e6f716.jpg)
 
 Correlaciones
+
 ![02](https://user-images.githubusercontent.com/94582879/173687153-435f4b86-ba6c-4ed5-ab86-5f5550b4dde3.jpg)
 
 
