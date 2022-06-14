@@ -44,5 +44,11 @@ Discount => Discount provided.
 
 Profit => Profit/Loss incurred.
 
+A traves del analisis se obtuvieron los siguientes diagramas, aunque hay mas productos del mismo analisis en el archivo YPNB
+
+![01](https://user-images.githubusercontent.com/94582879/173687150-e9a4c7fc-e29e-487e-a005-b1e398e6f716.jpg)
+![02](https://user-images.githubusercontent.com/94582879/173687153-435f4b86-ba6c-4ed5-ab86-5f5550b4dde3.jpg)
+
+
 ## Créditos y autor
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nestor_Diaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/contadornestordiaz/)
