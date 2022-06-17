@@ -54,9 +54,10 @@ Correlaciones
 
 ![02](https://user-images.githubusercontent.com/94582879/173687153-435f4b86-ba6c-4ed5-ab86-5f5550b4dde3.jpg)
 
-## Dashboard: Tambien se hace analisis con Power BI, agregando formulas con DAX para poder presentar un Dashboard que empieza viendose asi y luego aplicando configuraciones del programa va evolucionando hasta la presentación final.
+## Dashboard: Tambien se hace analisis con Power BI, agregando formulas con DAX para poder presentar un Dashboard que empieza viendose asi y luego aplicando configuraciones del programa va evolucionando hasta la presentación final que se vera en la ultima imagen.
 
-![01](https://user-images.githubusercontent.com/94582879/174398856-a6abe8cd-c866-44f2-9aba-d5b41dd96f02.jpg)
+![01](https://user-images.githubusercontent.com/94582879/174399022-288aeb55-40ef-490f-83b2-c8b2f0e4525a.jpg)
+
 
 
 ## Créditos y autor
