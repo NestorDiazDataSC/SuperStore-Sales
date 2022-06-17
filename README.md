@@ -54,6 +54,10 @@ Correlaciones
 
 ![02](https://user-images.githubusercontent.com/94582879/173687153-435f4b86-ba6c-4ed5-ab86-5f5550b4dde3.jpg)
 
+## Dashboard: Tambien se hace analisis con Power BI, agregando formulas con DAX para poder presentar un Dashboard que empieza viendose asi y luego aplicando configuraciones del programa va evolucionando hasta la presentación final.
+
+![01](https://user-images.githubusercontent.com/94582879/174398856-a6abe8cd-c866-44f2-9aba-d5b41dd96f02.jpg)
+
 
 ## Créditos y autor
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nestor_Diaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/contadornestordiaz/)
