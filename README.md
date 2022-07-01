@@ -1,7 +1,7 @@
 ## SuperStore-Sales
-Predecir Sales (Ventas) o Profit (Beneficios).
+Se intenta predecir Sales (Ventas) o Profit (Beneficios).
 
-## Metadata: Como se componen los datos del dataframe
+## Metadata: Como se componen los datos de este dataframe
 Row ID => Unique ID for each row.
 
 Order ID => Unique Order ID for each Customer.
@@ -44,7 +44,7 @@ Discount => Discount provided.
 
 Profit => Profit/Loss incurred.
 
-A traves del analisis se obtuvieron los siguientes diagramas, aunque hay mas productos del mismo analisis en el archivo IPYNB
+A traves del analisis se obtuienen los siguientes graficos en Python y sus librerias graficas, y luego tambien hay mas graficos y el dashboard en el archivo de Power BI (archivo IPYNB) con un analisis adicional.
 
 Heatmap
 
@@ -54,13 +54,10 @@ Correlaciones
 
 ![02](https://user-images.githubusercontent.com/94582879/173687153-435f4b86-ba6c-4ed5-ab86-5f5550b4dde3.jpg)
 
-### Dashboard: Tambien se hace analisis con Power BI, agregando formulas con DAX para poder presentar un Dashboard que empieza viendose asi y luego aplicando configuraciones del programa va evolucionando hasta la presentación final que se vera en la ultima imagen.
-A continuacion se ve la evolución del Dashboard.
+### Dashboard: Utilizando Power BI para analizar la misma base de datos, agregando formulas con DAX para poder presentar un Dashboard que empieza viendose asi y luego aplicando configuraciones del programa va evolucionando hasta la presentación final que se vera en la ultima imagen.
+Esta seria la evolución del Dashboard.
 ![01](https://user-images.githubusercontent.com/94582879/174399022-288aeb55-40ef-490f-83b2-c8b2f0e4525a.jpg)
 ![01](https://user-images.githubusercontent.com/94582879/176806929-208cf41a-1e40-43de-be78-fe2f22a9e8b5.jpg)
-
-
-
 
 ## Créditos y autor
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nestor_Diaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/contadornestordiaz/)
