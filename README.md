@@ -44,7 +44,8 @@ Discount => Discount provided.
 
 Profit => Profit/Loss incurred.
 
-A traves del analisis se obtuienen los siguientes graficos en Python y sus librerias graficas, y luego tambien hay mas graficos y el dashboard en el archivo de Power BI (archivo IPYNB) con un analisis adicional.
+## Utilizando Python para el analisis de los datos:
+A traves del analisis se obtienen los siguientes graficos en Python y sus librerias graficas, en el archivo ".ipynb" se puede ver el codigo utilizado para analizar los datos y mas graficos.
 
 Heatmap
 
@@ -54,7 +55,8 @@ Correlaciones
 
 ![02](https://user-images.githubusercontent.com/94582879/173687153-435f4b86-ba6c-4ed5-ab86-5f5550b4dde3.jpg)
 
-### Dashboard: Utilizando Power BI para analizar la misma base de datos, agregando formulas con DAX para poder presentar un Dashboard que empieza viendose asi y luego aplicando configuraciones del programa va evolucionando hasta la presentación final que se vera en la ultima imagen.
+## Dashboard POWER BI
+Utilizando Power BI para analizar la misma base de datos, agregando formulas con DAX para poder presentar un Dashboard que empieza viendose asi y luego aplicando configuraciones del programa va evolucionando hasta la presentación final que se vera en la ultima imagen.
 Esta seria la evolución del Dashboard.
 ![01](https://user-images.githubusercontent.com/94582879/174399022-288aeb55-40ef-490f-83b2-c8b2f0e4525a.jpg)
 ![01](https://user-images.githubusercontent.com/94582879/176806929-208cf41a-1e40-43de-be78-fe2f22a9e8b5.jpg)
